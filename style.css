@@ -18,6 +18,7 @@ header, section, footer {
 
 h1, h2, h3 {
   color: #38bdf8;
+  padding: 10px;
 }
 
 a {
