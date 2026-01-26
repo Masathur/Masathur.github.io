@@ -7,4 +7,24 @@
 
 body {
   background: #0f172a;
+  color: #e5e7eb;
+  padding: 40px;
+}
+
+header, section, footer {
+  max-width: 800px;
+  margin: 0 auto 40px;
+}
+
+h1, h2, h3 {
+  color: #38bdf8;
+}
+
+a {
+  color: #22d3ee;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
