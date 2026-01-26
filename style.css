@@ -1,1 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
 
+body {
+    background: #0f172a;
+    color: #e5e7eb;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#portfolio {
+    background-color: #16223b;
+    padding: 30px;
+    border-radius: 20px;
+    max-width: 800px;
+    width: 100%;
+}
+
+header, section, footer {
+    margin-bottom: 30px;
+}
+
+h1, h2, h3 {
+    color: #38bdf8;
+    margin-bottom: 20px;
+}
+
+a {
+    color: #22d3ee;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    margin-bottom: 10px;
+}
